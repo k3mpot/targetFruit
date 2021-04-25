@@ -9,6 +9,7 @@ Target: Fruit - змейка на с++
 
 **Команда для компиляции: g++ -o targetFruit targetFruit.cpp -lncurses**
 
+**Написано под ядро Linux!**
 ____
 
 	#include <iostream>
