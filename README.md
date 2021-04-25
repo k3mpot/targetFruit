@@ -1,4 +1,4 @@
-Target: Fruit
+# Target: Fruit
 
 Target: Fruit - змейка на с++
 
@@ -7,4 +7,4 @@ Target: Fruit - змейка на с++
 3. Скомпилировать
 4. Запустить
 
-Команда для компиляции: g++ -o targetFruit targetFruit.cpp -lncurses
+**Команда для компиляции: g++ -o targetFruit targetFruit.cpp -lncurses**
