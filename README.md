@@ -11,7 +11,7 @@ Target: Fruit - змейка на с++
 
 ____
 
-#include <iostream>
+	#include <iostream>
 	#include <ncurses.h>
 
 	using namespace std;
